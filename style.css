@@ -1,0 +1,202 @@
+h1 {
+  font-size: 90px;
+  color: yellow;
+  font-family: fantasy;
+}
+h3 {
+  font-size: 40px;
+  margin-bottom: 0px;
+}
+
+body {
+  background-color: #00ccff;
+  color: black;
+  background-image: url(../img/torden.jpg);
+  background-size: cover;
+  margin: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+  letter-spacing: 2px;
+}
+li {
+  font-size: 20px;
+}
+.strand {
+  width: 1300px;
+  height: 100px;
+  margin-bottom: 0px;
+  border-bottom-style: solid;
+  border-bottom-color: black;
+  border-bottom-width: 10px;
+  image
+}
+/* 
+    Margin: tomt rom rundt elementet
+    Border: grensen rundt elementet
+    Padding: Øker mengden tomt rom inne i elementet, bakgrunnsfarger osv
+*/
+.regler {
+  background-image: url(../img/runestein.jpg);
+  background-size: cover;
+  float: right;
+  position: absolute;
+  top: 113px;
+  right: 20px;
+  width: 300px;
+  height: 700px;
+  border-style: ridge;
+  border-width: 10px;
+}
+.reglertittel {
+  color: red;
+  padding-left: 10px;
+  padding-top: 0px;
+}
+ol li {
+  color: lime;
+  background: #591814;
+}
+.tittel {
+  background: black;
+  background-image: url(../img/tinget.jpg);
+  background-size: cover;
+  width: 560px;
+  margin-top: 0px;
+
+  border-color: yellow;
+  border-style: ridge;
+  border-width: 5px;
+
+  padding-left: 30px;
+  padding-right: 0px;
+}
+.info {
+  background: silver;
+  text-align: center;
+  color: rgb(44, 13, 72);
+  width: 510px;
+  height: 260px;
+  border-color: lime;
+  border-style: dotted;
+  border-width: 5px;
+  font-size: 23px;
+  margin-top: 0px;
+  line-height: 1.4;
+}
+.hvaeraltting {
+  margin-bottom: 5px;
+  color: lime;
+}
+li {
+  margin-bottom: 30px;
+  background: lime;
+}
+ul {
+  text-align: center;
+}
+.innhold {
+  margin-bottom: 0px;
+  color: lime;
+}
+.links {
+  text-align: center;
+  background: blue;
+  width: 300px;
+  height: 250px;
+  margin: 0px;
+  border-width: 5px;
+  border-style: ridge;
+  padding-top: 20px;
+  padding-bottom: 15px;
+}
+a {
+  color: #e62e00;
+}
+a:hover {
+  color: #ff9933;
+}
+a:active {
+  color: beige;
+}
+ul {
+  margin: 0px;
+}
+.matside {
+  background-image: url(../img/matogdrikke.jpg);
+  background-size: contain;
+}
+.tittel2 {
+  color: #e62e00;
+  background: gray;
+  width: 550px;
+  margin: 10px;
+
+  border-style: ridge;
+  border-color: #e62e00;
+  border-width: 5px;
+
+  padding-left: 10px;
+}
+.filmside {
+  background-image: url(../img/movies.jpg);
+  background-size: contain;
+}
+.tittel3 {
+  color: yellow;
+  background: gray;
+  width: 550px;
+  margin: 10px;
+
+  border-style: ridge;
+  border-color: #e62e00;
+  border-width: 5px;
+
+  padding-left: 10px;
+}
+.fiskeside {
+  background-image: url(../img/fiske.jpg);
+  background-size: contain;
+}
+.tittel4 {
+  color: aquamarine;
+  background: navy;
+  width: 400px;
+  margin: 10px;
+
+  border-style: ridge;
+  border-color: #e62e00;
+  border-width: 5px;
+
+  padding-left: 10px;
+}
+.poliside {
+  background-image: url(../img/politikk.jpg);
+  background-size: contain;
+}
+.tittel5 {
+  color: darkslategrey;
+  background: lavenderblush;
+  width: 310px;
+  margin: 10px;
+
+  border-style: ridge;
+  border-color: #e62e00;
+  border-width: 5px;
+
+  padding-left: 10px;
+}
+.paraside {
+  background-image: url(../img/bigfoot.jpg);
+  background-size: contain;
+}
+.tittel6 {
+  color: slateblue;
+  background: black;
+  width: 500px;
+  margin: 10px;
+
+  border-style: ridge;
+  border-color: #e62e00;
+  border-width: 5px;
+
+  padding-left: 10px;
+}
